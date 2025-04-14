@@ -1,0 +1,3346 @@
+[
+    {
+        "id": "1",
+        "php_tz": "Africa/Abidjan",
+        "javascript_tz": "Africa/Abidjan",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "2",
+        "php_tz": "Africa/Accra",
+        "javascript_tz": "Africa/Accra",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "3",
+        "php_tz": "Africa/Addis_Ababa",
+        "javascript_tz": "Africa/Addis_Ababa",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "4",
+        "php_tz": "Africa/Algiers",
+        "javascript_tz": "Africa/Algiers",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "5",
+        "php_tz": "Africa/Bamako",
+        "javascript_tz": "Africa/Bamako",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "6",
+        "php_tz": "Africa/Bangui",
+        "javascript_tz": "Africa/Bangui",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "7",
+        "php_tz": "Africa/Banjul",
+        "javascript_tz": "Africa/Banjul",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "8",
+        "php_tz": "Africa/Bissau",
+        "javascript_tz": "Africa/Bissau",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "9",
+        "php_tz": "Africa/Blantyre",
+        "javascript_tz": "Africa/Blantyre",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "10",
+        "php_tz": "Africa/Brazzaville",
+        "javascript_tz": "Africa/Brazzaville",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "11",
+        "php_tz": "Africa/Bujumbura",
+        "javascript_tz": "Africa/Bujumbura",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "12",
+        "php_tz": "Africa/Cairo",
+        "javascript_tz": "Africa/Cairo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "13",
+        "php_tz": "Africa/Casablanca",
+        "javascript_tz": "Africa/Casablanca",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "14",
+        "php_tz": "Africa/Ceuta",
+        "javascript_tz": "Africa/Ceuta",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "15",
+        "php_tz": "Africa/Conakry",
+        "javascript_tz": "Africa/Conakry",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "16",
+        "php_tz": "Africa/Dakar",
+        "javascript_tz": "Africa/Dakar",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "17",
+        "php_tz": "Africa/Dar_es_Salaam",
+        "javascript_tz": "Africa/Dar_es_Salaam",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "18",
+        "php_tz": "Africa/Djibouti",
+        "javascript_tz": "Africa/Djibouti",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "19",
+        "php_tz": "Africa/Douala",
+        "javascript_tz": "Africa/Douala",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "20",
+        "php_tz": "Africa/El_Aaiun",
+        "javascript_tz": "Africa/El_Aaiun",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "21",
+        "php_tz": "Africa/Freetown",
+        "javascript_tz": "Africa/Freetown",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "22",
+        "php_tz": "Africa/Gaborone",
+        "javascript_tz": "Africa/Gaborone",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "23",
+        "php_tz": "Africa/Harare",
+        "javascript_tz": "Africa/Harare",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "24",
+        "php_tz": "Africa/Johannesburg",
+        "javascript_tz": "Africa/Johannesburg",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "25",
+        "php_tz": "Africa/Juba",
+        "javascript_tz": "Africa/Juba",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "26",
+        "php_tz": "Africa/Kampala",
+        "javascript_tz": "Africa/Kampala",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "27",
+        "php_tz": "Africa/Khartoum",
+        "javascript_tz": "Africa/Khartoum",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "28",
+        "php_tz": "Africa/Kigali",
+        "javascript_tz": "Africa/Kigali",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "29",
+        "php_tz": "Africa/Kinshasa",
+        "javascript_tz": "Africa/Kinshasa",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "30",
+        "php_tz": "Africa/Lagos",
+        "javascript_tz": "Africa/Lagos",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "31",
+        "php_tz": "Africa/Libreville",
+        "javascript_tz": "Africa/Libreville",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "32",
+        "php_tz": "Africa/Lome",
+        "javascript_tz": "Africa/Lome",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "33",
+        "php_tz": "Africa/Luanda",
+        "javascript_tz": "Africa/Luanda",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "34",
+        "php_tz": "Africa/Lubumbashi",
+        "javascript_tz": "Africa/Lubumbashi",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "35",
+        "php_tz": "Africa/Lusaka",
+        "javascript_tz": "Africa/Lusaka",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "36",
+        "php_tz": "Africa/Malabo",
+        "javascript_tz": "Africa/Malabo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "37",
+        "php_tz": "Africa/Maputo",
+        "javascript_tz": "Africa/Maputo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "38",
+        "php_tz": "Africa/Maseru",
+        "javascript_tz": "Africa/Maseru",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "39",
+        "php_tz": "Africa/Mbabane",
+        "javascript_tz": "Africa/Mbabane",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "40",
+        "php_tz": "Africa/Mogadishu",
+        "javascript_tz": "Africa/Mogadishu",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "41",
+        "php_tz": "Africa/Monrovia",
+        "javascript_tz": "Africa/Monrovia",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "42",
+        "php_tz": "Africa/Nairobi",
+        "javascript_tz": "Africa/Nairobi",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "43",
+        "php_tz": "Africa/Ndjamena",
+        "javascript_tz": "Africa/Ndjamena",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "44",
+        "php_tz": "Africa/Niamey",
+        "javascript_tz": "Africa/Niamey",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "45",
+        "php_tz": "Africa/Nouakchott",
+        "javascript_tz": "Africa/Nouakchott",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "46",
+        "php_tz": "Africa/Ouagadougou",
+        "javascript_tz": "Africa/Ouagadougou",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "47",
+        "php_tz": "Africa/Porto-Novo",
+        "javascript_tz": "Africa/Porto-Novo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "48",
+        "php_tz": "Africa/Sao_Tome",
+        "javascript_tz": "Africa/Sao_Tome",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "49",
+        "php_tz": "Africa/Tripoli",
+        "javascript_tz": "Africa/Tripoli",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "50",
+        "php_tz": "Africa/Tunis",
+        "javascript_tz": "Africa/Tunis",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "51",
+        "php_tz": "Africa/Windhoek",
+        "javascript_tz": "Africa/Windhoek",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "52",
+        "php_tz": "America/Adak",
+        "javascript_tz": "America/Adak",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "53",
+        "php_tz": "America/Anchorage",
+        "javascript_tz": "America/Anchorage",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "54",
+        "php_tz": "America/Anguilla",
+        "javascript_tz": "America/Anguilla",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "55",
+        "php_tz": "America/Antigua",
+        "javascript_tz": "America/Antigua",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "56",
+        "php_tz": "America/Araguaina",
+        "javascript_tz": "America/Araguaina",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "57",
+        "php_tz": "America/Argentina/La_Rioja",
+        "javascript_tz": "America/Argentina/La_Rioja",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "58",
+        "php_tz": "America/Argentina/Rio_Gallegos",
+        "javascript_tz": "America/Argentina/Rio_Gallegos",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "59",
+        "php_tz": "America/Argentina/Salta",
+        "javascript_tz": "America/Argentina/Salta",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "60",
+        "php_tz": "America/Argentina/San_Juan",
+        "javascript_tz": "America/Argentina/San_Juan",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "61",
+        "php_tz": "America/Argentina/San_Luis",
+        "javascript_tz": "America/Argentina/San_Luis",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "62",
+        "php_tz": "America/Argentina/Tucuman",
+        "javascript_tz": "America/Argentina/Tucuman",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "63",
+        "php_tz": "America/Argentina/Ushuaia",
+        "javascript_tz": "America/Argentina/Ushuaia",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "64",
+        "php_tz": "America/Aruba",
+        "javascript_tz": "America/Aruba",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "65",
+        "php_tz": "America/Asuncion",
+        "javascript_tz": "America/Asuncion",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "66",
+        "php_tz": "America/Bahia",
+        "javascript_tz": "America/Bahia",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "67",
+        "php_tz": "America/Bahia_Banderas",
+        "javascript_tz": "America/Bahia_Banderas",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "68",
+        "php_tz": "America/Barbados",
+        "javascript_tz": "America/Barbados",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "69",
+        "php_tz": "America/Belem",
+        "javascript_tz": "America/Belem",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "70",
+        "php_tz": "America/Belize",
+        "javascript_tz": "America/Belize",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "71",
+        "php_tz": "America/Blanc-Sablon",
+        "javascript_tz": "America/Blanc-Sablon",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "72",
+        "php_tz": "America/Boa_Vista",
+        "javascript_tz": "America/Boa_Vista",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "73",
+        "php_tz": "America/Bogota",
+        "javascript_tz": "America/Bogota",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "74",
+        "php_tz": "America/Boise",
+        "javascript_tz": "America/Boise",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "75",
+        "php_tz": "America/Cambridge_Bay",
+        "javascript_tz": "America/Cambridge_Bay",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "76",
+        "php_tz": "America/Campo_Grande",
+        "javascript_tz": "America/Campo_Grande",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "77",
+        "php_tz": "America/Cancun",
+        "javascript_tz": "America/Cancun",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "78",
+        "php_tz": "America/Caracas",
+        "javascript_tz": "America/Caracas",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "79",
+        "php_tz": "America/Cayenne",
+        "javascript_tz": "America/Cayenne",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "80",
+        "php_tz": "America/Cayman",
+        "javascript_tz": "America/Cayman",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "81",
+        "php_tz": "America/Chicago",
+        "javascript_tz": "America/Chicago",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "82",
+        "php_tz": "America/Chihuahua",
+        "javascript_tz": "America/Chihuahua",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "83",
+        "php_tz": "America/Ciudad_Juarez",
+        "javascript_tz": "America/Ciudad_Juarez",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "84",
+        "php_tz": "America/Costa_Rica",
+        "javascript_tz": "America/Costa_Rica",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "85",
+        "php_tz": "America/Creston",
+        "javascript_tz": "America/Creston",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "86",
+        "php_tz": "America/Cuiaba",
+        "javascript_tz": "America/Cuiaba",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "87",
+        "php_tz": "America/Curacao",
+        "javascript_tz": "America/Curacao",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "88",
+        "php_tz": "America/Danmarkshavn",
+        "javascript_tz": "America/Danmarkshavn",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "89",
+        "php_tz": "America/Dawson",
+        "javascript_tz": "America/Dawson",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "90",
+        "php_tz": "America/Dawson_Creek",
+        "javascript_tz": "America/Dawson_Creek",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "91",
+        "php_tz": "America/Denver",
+        "javascript_tz": "America/Denver",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "92",
+        "php_tz": "America/Detroit",
+        "javascript_tz": "America/Detroit",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "93",
+        "php_tz": "America/Dominica",
+        "javascript_tz": "America/Dominica",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "94",
+        "php_tz": "America/Edmonton",
+        "javascript_tz": "America/Edmonton",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "95",
+        "php_tz": "America/Eirunepe",
+        "javascript_tz": "America/Eirunepe",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "96",
+        "php_tz": "America/El_Salvador",
+        "javascript_tz": "America/El_Salvador",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "97",
+        "php_tz": "America/Fort_Nelson",
+        "javascript_tz": "America/Fort_Nelson",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "98",
+        "php_tz": "America/Fortaleza",
+        "javascript_tz": "America/Fortaleza",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "99",
+        "php_tz": "America/Glace_Bay",
+        "javascript_tz": "America/Glace_Bay",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "100",
+        "php_tz": "America/Goose_Bay",
+        "javascript_tz": "America/Goose_Bay",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "101",
+        "php_tz": "America/Grand_Turk",
+        "javascript_tz": "America/Grand_Turk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "102",
+        "php_tz": "America/Grenada",
+        "javascript_tz": "America/Grenada",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "103",
+        "php_tz": "America/Guadeloupe",
+        "javascript_tz": "America/Guadeloupe",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "104",
+        "php_tz": "America/Guatemala",
+        "javascript_tz": "America/Guatemala",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "105",
+        "php_tz": "America/Guayaquil",
+        "javascript_tz": "America/Guayaquil",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "106",
+        "php_tz": "America/Guyana",
+        "javascript_tz": "America/Guyana",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "107",
+        "php_tz": "America/Halifax",
+        "javascript_tz": "America/Halifax",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "108",
+        "php_tz": "America/Havana",
+        "javascript_tz": "America/Havana",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "109",
+        "php_tz": "America/Hermosillo",
+        "javascript_tz": "America/Hermosillo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "110",
+        "php_tz": "America/Indiana/Knox",
+        "javascript_tz": "America/Indiana/Knox",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "111",
+        "php_tz": "America/Indiana/Marengo",
+        "javascript_tz": "America/Indiana/Marengo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "112",
+        "php_tz": "America/Indiana/Petersburg",
+        "javascript_tz": "America/Indiana/Petersburg",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "113",
+        "php_tz": "America/Indiana/Tell_City",
+        "javascript_tz": "America/Indiana/Tell_City",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "114",
+        "php_tz": "America/Indiana/Vevay",
+        "javascript_tz": "America/Indiana/Vevay",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "115",
+        "php_tz": "America/Indiana/Vincennes",
+        "javascript_tz": "America/Indiana/Vincennes",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "116",
+        "php_tz": "America/Indiana/Winamac",
+        "javascript_tz": "America/Indiana/Winamac",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "117",
+        "php_tz": "America/Inuvik",
+        "javascript_tz": "America/Inuvik",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "118",
+        "php_tz": "America/Iqaluit",
+        "javascript_tz": "America/Iqaluit",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "119",
+        "php_tz": "America/Jamaica",
+        "javascript_tz": "America/Jamaica",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "120",
+        "php_tz": "America/Juneau",
+        "javascript_tz": "America/Juneau",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "121",
+        "php_tz": "America/Kentucky/Monticello",
+        "javascript_tz": "America/Kentucky/Monticello",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "122",
+        "php_tz": "America/Kralendijk",
+        "javascript_tz": "America/Kralendijk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "123",
+        "php_tz": "America/La_Paz",
+        "javascript_tz": "America/La_Paz",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "124",
+        "php_tz": "America/Lima",
+        "javascript_tz": "America/Lima",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "125",
+        "php_tz": "America/Los_Angeles",
+        "javascript_tz": "America/Los_Angeles",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "126",
+        "php_tz": "America/Lower_Princes",
+        "javascript_tz": "America/Lower_Princes",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "127",
+        "php_tz": "America/Maceio",
+        "javascript_tz": "America/Maceio",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "128",
+        "php_tz": "America/Managua",
+        "javascript_tz": "America/Managua",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "129",
+        "php_tz": "America/Manaus",
+        "javascript_tz": "America/Manaus",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "130",
+        "php_tz": "America/Marigot",
+        "javascript_tz": "America/Marigot",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "131",
+        "php_tz": "America/Martinique",
+        "javascript_tz": "America/Martinique",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "132",
+        "php_tz": "America/Matamoros",
+        "javascript_tz": "America/Matamoros",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "133",
+        "php_tz": "America/Mazatlan",
+        "javascript_tz": "America/Mazatlan",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "134",
+        "php_tz": "America/Menominee",
+        "javascript_tz": "America/Menominee",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "135",
+        "php_tz": "America/Merida",
+        "javascript_tz": "America/Merida",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "136",
+        "php_tz": "America/Metlakatla",
+        "javascript_tz": "America/Metlakatla",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "137",
+        "php_tz": "America/Mexico_City",
+        "javascript_tz": "America/Mexico_City",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "138",
+        "php_tz": "America/Miquelon",
+        "javascript_tz": "America/Miquelon",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "139",
+        "php_tz": "America/Moncton",
+        "javascript_tz": "America/Moncton",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "140",
+        "php_tz": "America/Monterrey",
+        "javascript_tz": "America/Monterrey",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "141",
+        "php_tz": "America/Montevideo",
+        "javascript_tz": "America/Montevideo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "142",
+        "php_tz": "America/Montserrat",
+        "javascript_tz": "America/Montserrat",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "143",
+        "php_tz": "America/Nassau",
+        "javascript_tz": "America/Nassau",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "144",
+        "php_tz": "America/New_York",
+        "javascript_tz": "America/New_York",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "145",
+        "php_tz": "America/Nome",
+        "javascript_tz": "America/Nome",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "146",
+        "php_tz": "America/Noronha",
+        "javascript_tz": "America/Noronha",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "147",
+        "php_tz": "America/North_Dakota/Beulah",
+        "javascript_tz": "America/North_Dakota/Beulah",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "148",
+        "php_tz": "America/North_Dakota/Center",
+        "javascript_tz": "America/North_Dakota/Center",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "149",
+        "php_tz": "America/North_Dakota/New_Salem",
+        "javascript_tz": "America/North_Dakota/New_Salem",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "150",
+        "php_tz": "America/Ojinaga",
+        "javascript_tz": "America/Ojinaga",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "151",
+        "php_tz": "America/Panama",
+        "javascript_tz": "America/Panama",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "152",
+        "php_tz": "America/Paramaribo",
+        "javascript_tz": "America/Paramaribo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "153",
+        "php_tz": "America/Phoenix",
+        "javascript_tz": "America/Phoenix",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "154",
+        "php_tz": "America/Port-au-Prince",
+        "javascript_tz": "America/Port-au-Prince",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "155",
+        "php_tz": "America/Port_of_Spain",
+        "javascript_tz": "America/Port_of_Spain",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "156",
+        "php_tz": "America/Porto_Velho",
+        "javascript_tz": "America/Porto_Velho",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "157",
+        "php_tz": "America/Puerto_Rico",
+        "javascript_tz": "America/Puerto_Rico",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "158",
+        "php_tz": "America/Punta_Arenas",
+        "javascript_tz": "America/Punta_Arenas",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "159",
+        "php_tz": "America/Rankin_Inlet",
+        "javascript_tz": "America/Rankin_Inlet",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "160",
+        "php_tz": "America/Recife",
+        "javascript_tz": "America/Recife",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "161",
+        "php_tz": "America/Regina",
+        "javascript_tz": "America/Regina",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "162",
+        "php_tz": "America/Resolute",
+        "javascript_tz": "America/Resolute",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "163",
+        "php_tz": "America/Rio_Branco",
+        "javascript_tz": "America/Rio_Branco",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "164",
+        "php_tz": "America/Santarem",
+        "javascript_tz": "America/Santarem",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "165",
+        "php_tz": "America/Santiago",
+        "javascript_tz": "America/Santiago",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "166",
+        "php_tz": "America/Santo_Domingo",
+        "javascript_tz": "America/Santo_Domingo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "167",
+        "php_tz": "America/Sao_Paulo",
+        "javascript_tz": "America/Sao_Paulo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "168",
+        "php_tz": "America/Scoresbysund",
+        "javascript_tz": "America/Scoresbysund",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "169",
+        "php_tz": "America/Sitka",
+        "javascript_tz": "America/Sitka",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "170",
+        "php_tz": "America/St_Barthelemy",
+        "javascript_tz": "America/St_Barthelemy",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "171",
+        "php_tz": "America/St_Johns",
+        "javascript_tz": "America/St_Johns",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "172",
+        "php_tz": "America/St_Kitts",
+        "javascript_tz": "America/St_Kitts",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "173",
+        "php_tz": "America/St_Lucia",
+        "javascript_tz": "America/St_Lucia",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "174",
+        "php_tz": "America/St_Thomas",
+        "javascript_tz": "America/St_Thomas",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "175",
+        "php_tz": "America/St_Vincent",
+        "javascript_tz": "America/St_Vincent",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "176",
+        "php_tz": "America/Swift_Current",
+        "javascript_tz": "America/Swift_Current",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "177",
+        "php_tz": "America/Tegucigalpa",
+        "javascript_tz": "America/Tegucigalpa",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "178",
+        "php_tz": "America/Thule",
+        "javascript_tz": "America/Thule",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "179",
+        "php_tz": "America/Tijuana",
+        "javascript_tz": "America/Tijuana",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "180",
+        "php_tz": "America/Toronto",
+        "javascript_tz": "America/Toronto",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "181",
+        "php_tz": "America/Tortola",
+        "javascript_tz": "America/Tortola",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "182",
+        "php_tz": "America/Vancouver",
+        "javascript_tz": "America/Vancouver",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "183",
+        "php_tz": "America/Whitehorse",
+        "javascript_tz": "America/Whitehorse",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "184",
+        "php_tz": "America/Winnipeg",
+        "javascript_tz": "America/Winnipeg",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "185",
+        "php_tz": "America/Yakutat",
+        "javascript_tz": "America/Yakutat",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "186",
+        "php_tz": "Antarctica/Casey",
+        "javascript_tz": "Antarctica/Casey",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "187",
+        "php_tz": "Antarctica/Davis",
+        "javascript_tz": "Antarctica/Davis",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "188",
+        "php_tz": "Antarctica/DumontDUrville",
+        "javascript_tz": "Antarctica/DumontDUrville",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "189",
+        "php_tz": "Antarctica/Macquarie",
+        "javascript_tz": "Antarctica/Macquarie",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "190",
+        "php_tz": "Antarctica/Mawson",
+        "javascript_tz": "Antarctica/Mawson",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "191",
+        "php_tz": "Antarctica/McMurdo",
+        "javascript_tz": "Antarctica/McMurdo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "192",
+        "php_tz": "Antarctica/Palmer",
+        "javascript_tz": "Antarctica/Palmer",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "193",
+        "php_tz": "Antarctica/Rothera",
+        "javascript_tz": "Antarctica/Rothera",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "194",
+        "php_tz": "Antarctica/Syowa",
+        "javascript_tz": "Antarctica/Syowa",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "195",
+        "php_tz": "Antarctica/Troll",
+        "javascript_tz": "Antarctica/Troll",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "196",
+        "php_tz": "Antarctica/Vostok",
+        "javascript_tz": "Antarctica/Vostok",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "197",
+        "php_tz": "Arctic/Longyearbyen",
+        "javascript_tz": "Arctic/Longyearbyen",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "198",
+        "php_tz": "Asia/Aden",
+        "javascript_tz": "Asia/Aden",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "199",
+        "php_tz": "Asia/Almaty",
+        "javascript_tz": "Asia/Almaty",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "200",
+        "php_tz": "Asia/Amman",
+        "javascript_tz": "Asia/Amman",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "201",
+        "php_tz": "Asia/Anadyr",
+        "javascript_tz": "Asia/Anadyr",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "202",
+        "php_tz": "Asia/Aqtau",
+        "javascript_tz": "Asia/Aqtau",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "203",
+        "php_tz": "Asia/Aqtobe",
+        "javascript_tz": "Asia/Aqtobe",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "204",
+        "php_tz": "Asia/Ashgabat",
+        "javascript_tz": "Asia/Ashgabat",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "205",
+        "php_tz": "Asia/Atyrau",
+        "javascript_tz": "Asia/Atyrau",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "206",
+        "php_tz": "Asia/Baghdad",
+        "javascript_tz": "Asia/Baghdad",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "207",
+        "php_tz": "Asia/Bahrain",
+        "javascript_tz": "Asia/Bahrain",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "208",
+        "php_tz": "Asia/Baku",
+        "javascript_tz": "Asia/Baku",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "209",
+        "php_tz": "Asia/Bangkok",
+        "javascript_tz": "Asia/Bangkok",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "210",
+        "php_tz": "Asia/Barnaul",
+        "javascript_tz": "Asia/Barnaul",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "211",
+        "php_tz": "Asia/Beirut",
+        "javascript_tz": "Asia/Beirut",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "212",
+        "php_tz": "Asia/Bishkek",
+        "javascript_tz": "Asia/Bishkek",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "213",
+        "php_tz": "Asia/Brunei",
+        "javascript_tz": "Asia/Brunei",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "214",
+        "php_tz": "Asia/Chita",
+        "javascript_tz": "Asia/Chita",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "215",
+        "php_tz": "Asia/Choibalsan",
+        "javascript_tz": "Asia/Choibalsan",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "216",
+        "php_tz": "Asia/Colombo",
+        "javascript_tz": "Asia/Colombo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "217",
+        "php_tz": "Asia/Damascus",
+        "javascript_tz": "Asia/Damascus",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "218",
+        "php_tz": "Asia/Dhaka",
+        "javascript_tz": "Asia/Dhaka",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "219",
+        "php_tz": "Asia/Dili",
+        "javascript_tz": "Asia/Dili",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "220",
+        "php_tz": "Asia/Dubai",
+        "javascript_tz": "Asia/Dubai",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "221",
+        "php_tz": "Asia/Dushanbe",
+        "javascript_tz": "Asia/Dushanbe",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "222",
+        "php_tz": "Asia/Famagusta",
+        "javascript_tz": "Asia/Famagusta",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "223",
+        "php_tz": "Asia/Gaza",
+        "javascript_tz": "Asia/Gaza",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "224",
+        "php_tz": "Asia/Hebron",
+        "javascript_tz": "Asia/Hebron",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "225",
+        "php_tz": "Asia/Hong_Kong",
+        "javascript_tz": "Asia/Hong_Kong",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "226",
+        "php_tz": "Asia/Hovd",
+        "javascript_tz": "Asia/Hovd",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "227",
+        "php_tz": "Asia/Irkutsk",
+        "javascript_tz": "Asia/Irkutsk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "228",
+        "php_tz": "Asia/Jakarta",
+        "javascript_tz": "Asia/Jakarta",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "229",
+        "php_tz": "Asia/Jayapura",
+        "javascript_tz": "Asia/Jayapura",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "230",
+        "php_tz": "Asia/Jerusalem",
+        "javascript_tz": "Asia/Jerusalem",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "231",
+        "php_tz": "Asia/Kabul",
+        "javascript_tz": "Asia/Kabul",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "232",
+        "php_tz": "Asia/Kamchatka",
+        "javascript_tz": "Asia/Kamchatka",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "233",
+        "php_tz": "Asia/Karachi",
+        "javascript_tz": "Asia/Karachi",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "234",
+        "php_tz": "Asia/Khandyga",
+        "javascript_tz": "Asia/Khandyga",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "235",
+        "php_tz": "Asia/Krasnoyarsk",
+        "javascript_tz": "Asia/Krasnoyarsk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "236",
+        "php_tz": "Asia/Kuala_Lumpur",
+        "javascript_tz": "Asia/Kuala_Lumpur",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "237",
+        "php_tz": "Asia/Kuching",
+        "javascript_tz": "Asia/Kuching",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "238",
+        "php_tz": "Asia/Kuwait",
+        "javascript_tz": "Asia/Kuwait",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "239",
+        "php_tz": "Asia/Macau",
+        "javascript_tz": "Asia/Macau",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "240",
+        "php_tz": "Asia/Magadan",
+        "javascript_tz": "Asia/Magadan",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "241",
+        "php_tz": "Asia/Makassar",
+        "javascript_tz": "Asia/Makassar",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "242",
+        "php_tz": "Asia/Manila",
+        "javascript_tz": "Asia/Manila",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "243",
+        "php_tz": "Asia/Muscat",
+        "javascript_tz": "Asia/Muscat",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "244",
+        "php_tz": "Asia/Nicosia",
+        "javascript_tz": "Asia/Nicosia",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "245",
+        "php_tz": "Asia/Novokuznetsk",
+        "javascript_tz": "Asia/Novokuznetsk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "246",
+        "php_tz": "Asia/Novosibirsk",
+        "javascript_tz": "Asia/Novosibirsk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "247",
+        "php_tz": "Asia/Omsk",
+        "javascript_tz": "Asia/Omsk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "248",
+        "php_tz": "Asia/Oral",
+        "javascript_tz": "Asia/Oral",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "249",
+        "php_tz": "Asia/Phnom_Penh",
+        "javascript_tz": "Asia/Phnom_Penh",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "250",
+        "php_tz": "Asia/Pontianak",
+        "javascript_tz": "Asia/Pontianak",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "251",
+        "php_tz": "Asia/Pyongyang",
+        "javascript_tz": "Asia/Pyongyang",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "252",
+        "php_tz": "Asia/Qatar",
+        "javascript_tz": "Asia/Qatar",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "253",
+        "php_tz": "Asia/Qostanay",
+        "javascript_tz": "Asia/Qostanay",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "254",
+        "php_tz": "Asia/Qyzylorda",
+        "javascript_tz": "Asia/Qyzylorda",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "255",
+        "php_tz": "Asia/Riyadh",
+        "javascript_tz": "Asia/Riyadh",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "256",
+        "php_tz": "Asia/Sakhalin",
+        "javascript_tz": "Asia/Sakhalin",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "257",
+        "php_tz": "Asia/Samarkand",
+        "javascript_tz": "Asia/Samarkand",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "258",
+        "php_tz": "Asia/Seoul",
+        "javascript_tz": "Asia/Seoul",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "259",
+        "php_tz": "Asia/Shanghai",
+        "javascript_tz": "Asia/Shanghai",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "260",
+        "php_tz": "Asia/Singapore",
+        "javascript_tz": "Asia/Singapore",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "261",
+        "php_tz": "Asia/Srednekolymsk",
+        "javascript_tz": "Asia/Srednekolymsk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "262",
+        "php_tz": "Asia/Taipei",
+        "javascript_tz": "Asia/Taipei",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "263",
+        "php_tz": "Asia/Tashkent",
+        "javascript_tz": "Asia/Tashkent",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "264",
+        "php_tz": "Asia/Tbilisi",
+        "javascript_tz": "Asia/Tbilisi",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "265",
+        "php_tz": "Asia/Tehran",
+        "javascript_tz": "Asia/Tehran",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "266",
+        "php_tz": "Asia/Thimphu",
+        "javascript_tz": "Asia/Thimphu",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "267",
+        "php_tz": "Asia/Tokyo",
+        "javascript_tz": "Asia/Tokyo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "268",
+        "php_tz": "Asia/Tomsk",
+        "javascript_tz": "Asia/Tomsk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "269",
+        "php_tz": "Asia/Ulaanbaatar",
+        "javascript_tz": "Asia/Ulaanbaatar",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "270",
+        "php_tz": "Asia/Urumqi",
+        "javascript_tz": "Asia/Urumqi",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "271",
+        "php_tz": "Asia/Ust-Nera",
+        "javascript_tz": "Asia/Ust-Nera",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "272",
+        "php_tz": "Asia/Vientiane",
+        "javascript_tz": "Asia/Vientiane",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "273",
+        "php_tz": "Asia/Vladivostok",
+        "javascript_tz": "Asia/Vladivostok",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "274",
+        "php_tz": "Asia/Yakutsk",
+        "javascript_tz": "Asia/Yakutsk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "275",
+        "php_tz": "Asia/Yekaterinburg",
+        "javascript_tz": "Asia/Yekaterinburg",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "276",
+        "php_tz": "Asia/Yerevan",
+        "javascript_tz": "Asia/Yerevan",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "277",
+        "php_tz": "Atlantic/Azores",
+        "javascript_tz": "Atlantic/Azores",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "278",
+        "php_tz": "Atlantic/Bermuda",
+        "javascript_tz": "Atlantic/Bermuda",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "279",
+        "php_tz": "Atlantic/Canary",
+        "javascript_tz": "Atlantic/Canary",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "280",
+        "php_tz": "Atlantic/Cape_Verde",
+        "javascript_tz": "Atlantic/Cape_Verde",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "281",
+        "php_tz": "Atlantic/Madeira",
+        "javascript_tz": "Atlantic/Madeira",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "282",
+        "php_tz": "Atlantic/Reykjavik",
+        "javascript_tz": "Atlantic/Reykjavik",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "283",
+        "php_tz": "Atlantic/South_Georgia",
+        "javascript_tz": "Atlantic/South_Georgia",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "284",
+        "php_tz": "Atlantic/St_Helena",
+        "javascript_tz": "Atlantic/St_Helena",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "285",
+        "php_tz": "Atlantic/Stanley",
+        "javascript_tz": "Atlantic/Stanley",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "286",
+        "php_tz": "Australia/Adelaide",
+        "javascript_tz": "Australia/Adelaide",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "287",
+        "php_tz": "Australia/Brisbane",
+        "javascript_tz": "Australia/Brisbane",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "288",
+        "php_tz": "Australia/Broken_Hill",
+        "javascript_tz": "Australia/Broken_Hill",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "289",
+        "php_tz": "Australia/Darwin",
+        "javascript_tz": "Australia/Darwin",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "290",
+        "php_tz": "Australia/Eucla",
+        "javascript_tz": "Australia/Eucla",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "291",
+        "php_tz": "Australia/Hobart",
+        "javascript_tz": "Australia/Hobart",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "292",
+        "php_tz": "Australia/Lindeman",
+        "javascript_tz": "Australia/Lindeman",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "293",
+        "php_tz": "Australia/Lord_Howe",
+        "javascript_tz": "Australia/Lord_Howe",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "294",
+        "php_tz": "Australia/Melbourne",
+        "javascript_tz": "Australia/Melbourne",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "295",
+        "php_tz": "Australia/Perth",
+        "javascript_tz": "Australia/Perth",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "296",
+        "php_tz": "Australia/Sydney",
+        "javascript_tz": "Australia/Sydney",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "297",
+        "php_tz": "Europe/Amsterdam",
+        "javascript_tz": "Europe/Amsterdam",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "298",
+        "php_tz": "Europe/Andorra",
+        "javascript_tz": "Europe/Andorra",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "299",
+        "php_tz": "Europe/Astrakhan",
+        "javascript_tz": "Europe/Astrakhan",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "300",
+        "php_tz": "Europe/Athens",
+        "javascript_tz": "Europe/Athens",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "301",
+        "php_tz": "Europe/Belgrade",
+        "javascript_tz": "Europe/Belgrade",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "302",
+        "php_tz": "Europe/Berlin",
+        "javascript_tz": "Europe/Berlin",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "303",
+        "php_tz": "Europe/Bratislava",
+        "javascript_tz": "Europe/Bratislava",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "304",
+        "php_tz": "Europe/Brussels",
+        "javascript_tz": "Europe/Brussels",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "305",
+        "php_tz": "Europe/Bucharest",
+        "javascript_tz": "Europe/Bucharest",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "306",
+        "php_tz": "Europe/Budapest",
+        "javascript_tz": "Europe/Budapest",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "307",
+        "php_tz": "Europe/Busingen",
+        "javascript_tz": "Europe/Busingen",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "308",
+        "php_tz": "Europe/Chisinau",
+        "javascript_tz": "Europe/Chisinau",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "309",
+        "php_tz": "Europe/Copenhagen",
+        "javascript_tz": "Europe/Copenhagen",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "310",
+        "php_tz": "Europe/Dublin",
+        "javascript_tz": "Europe/Dublin",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "311",
+        "php_tz": "Europe/Gibraltar",
+        "javascript_tz": "Europe/Gibraltar",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "312",
+        "php_tz": "Europe/Guernsey",
+        "javascript_tz": "Europe/Guernsey",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "313",
+        "php_tz": "Europe/Helsinki",
+        "javascript_tz": "Europe/Helsinki",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "314",
+        "php_tz": "Europe/Isle_of_Man",
+        "javascript_tz": "Europe/Isle_of_Man",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "315",
+        "php_tz": "Europe/Istanbul",
+        "javascript_tz": "Europe/Istanbul",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "316",
+        "php_tz": "Europe/Jersey",
+        "javascript_tz": "Europe/Jersey",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "317",
+        "php_tz": "Europe/Kaliningrad",
+        "javascript_tz": "Europe/Kaliningrad",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "318",
+        "php_tz": "Europe/Kirov",
+        "javascript_tz": "Europe/Kirov",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "319",
+        "php_tz": "Europe/Lisbon",
+        "javascript_tz": "Europe/Lisbon",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "320",
+        "php_tz": "Europe/Ljubljana",
+        "javascript_tz": "Europe/Ljubljana",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "321",
+        "php_tz": "Europe/London",
+        "javascript_tz": "Europe/London",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "322",
+        "php_tz": "Europe/Luxembourg",
+        "javascript_tz": "Europe/Luxembourg",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "323",
+        "php_tz": "Europe/Madrid",
+        "javascript_tz": "Europe/Madrid",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "324",
+        "php_tz": "Europe/Malta",
+        "javascript_tz": "Europe/Malta",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "325",
+        "php_tz": "Europe/Mariehamn",
+        "javascript_tz": "Europe/Mariehamn",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "326",
+        "php_tz": "Europe/Minsk",
+        "javascript_tz": "Europe/Minsk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "327",
+        "php_tz": "Europe/Monaco",
+        "javascript_tz": "Europe/Monaco",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "328",
+        "php_tz": "Europe/Moscow",
+        "javascript_tz": "Europe/Moscow",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "329",
+        "php_tz": "Europe/Oslo",
+        "javascript_tz": "Europe/Oslo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "330",
+        "php_tz": "Europe/Paris",
+        "javascript_tz": "Europe/Paris",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "331",
+        "php_tz": "Europe/Podgorica",
+        "javascript_tz": "Europe/Podgorica",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "332",
+        "php_tz": "Europe/Prague",
+        "javascript_tz": "Europe/Prague",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "333",
+        "php_tz": "Europe/Riga",
+        "javascript_tz": "Europe/Riga",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "334",
+        "php_tz": "Europe/Rome",
+        "javascript_tz": "Europe/Rome",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "335",
+        "php_tz": "Europe/Samara",
+        "javascript_tz": "Europe/Samara",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "336",
+        "php_tz": "Europe/San_Marino",
+        "javascript_tz": "Europe/San_Marino",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "337",
+        "php_tz": "Europe/Sarajevo",
+        "javascript_tz": "Europe/Sarajevo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "338",
+        "php_tz": "Europe/Saratov",
+        "javascript_tz": "Europe/Saratov",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "339",
+        "php_tz": "Europe/Simferopol",
+        "javascript_tz": "Europe/Simferopol",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "340",
+        "php_tz": "Europe/Skopje",
+        "javascript_tz": "Europe/Skopje",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "341",
+        "php_tz": "Europe/Sofia",
+        "javascript_tz": "Europe/Sofia",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "342",
+        "php_tz": "Europe/Stockholm",
+        "javascript_tz": "Europe/Stockholm",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "343",
+        "php_tz": "Europe/Tallinn",
+        "javascript_tz": "Europe/Tallinn",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "344",
+        "php_tz": "Europe/Tirane",
+        "javascript_tz": "Europe/Tirane",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "345",
+        "php_tz": "Europe/Ulyanovsk",
+        "javascript_tz": "Europe/Ulyanovsk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "346",
+        "php_tz": "Europe/Vaduz",
+        "javascript_tz": "Europe/Vaduz",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "347",
+        "php_tz": "Europe/Vatican",
+        "javascript_tz": "Europe/Vatican",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "348",
+        "php_tz": "Europe/Vienna",
+        "javascript_tz": "Europe/Vienna",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "349",
+        "php_tz": "Europe/Vilnius",
+        "javascript_tz": "Europe/Vilnius",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "350",
+        "php_tz": "Europe/Volgograd",
+        "javascript_tz": "Europe/Volgograd",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "351",
+        "php_tz": "Europe/Warsaw",
+        "javascript_tz": "Europe/Warsaw",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "352",
+        "php_tz": "Europe/Zagreb",
+        "javascript_tz": "Europe/Zagreb",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "353",
+        "php_tz": "Europe/Zurich",
+        "javascript_tz": "Europe/Zurich",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "354",
+        "php_tz": "Indian/Antananarivo",
+        "javascript_tz": "Indian/Antananarivo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "355",
+        "php_tz": "Indian/Chagos",
+        "javascript_tz": "Indian/Chagos",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "356",
+        "php_tz": "Indian/Christmas",
+        "javascript_tz": "Indian/Christmas",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "357",
+        "php_tz": "Indian/Cocos",
+        "javascript_tz": "Indian/Cocos",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "358",
+        "php_tz": "Indian/Comoro",
+        "javascript_tz": "Indian/Comoro",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "359",
+        "php_tz": "Indian/Kerguelen",
+        "javascript_tz": "Indian/Kerguelen",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "360",
+        "php_tz": "Indian/Mahe",
+        "javascript_tz": "Indian/Mahe",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "361",
+        "php_tz": "Indian/Maldives",
+        "javascript_tz": "Indian/Maldives",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "362",
+        "php_tz": "Indian/Mauritius",
+        "javascript_tz": "Indian/Mauritius",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "363",
+        "php_tz": "Indian/Mayotte",
+        "javascript_tz": "Indian/Mayotte",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "364",
+        "php_tz": "Indian/Reunion",
+        "javascript_tz": "Indian/Reunion",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "365",
+        "php_tz": "Pacific/Apia",
+        "javascript_tz": "Pacific/Apia",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "366",
+        "php_tz": "Pacific/Auckland",
+        "javascript_tz": "Pacific/Auckland",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "367",
+        "php_tz": "Pacific/Bougainville",
+        "javascript_tz": "Pacific/Bougainville",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "368",
+        "php_tz": "Pacific/Chatham",
+        "javascript_tz": "Pacific/Chatham",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "369",
+        "php_tz": "Pacific/Easter",
+        "javascript_tz": "Pacific/Easter",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "370",
+        "php_tz": "Pacific/Efate",
+        "javascript_tz": "Pacific/Efate",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "371",
+        "php_tz": "Pacific/Fakaofo",
+        "javascript_tz": "Pacific/Fakaofo",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "372",
+        "php_tz": "Pacific/Fiji",
+        "javascript_tz": "Pacific/Fiji",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "373",
+        "php_tz": "Pacific/Funafuti",
+        "javascript_tz": "Pacific/Funafuti",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "374",
+        "php_tz": "Pacific/Galapagos",
+        "javascript_tz": "Pacific/Galapagos",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "375",
+        "php_tz": "Pacific/Gambier",
+        "javascript_tz": "Pacific/Gambier",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "376",
+        "php_tz": "Pacific/Guadalcanal",
+        "javascript_tz": "Pacific/Guadalcanal",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "377",
+        "php_tz": "Pacific/Guam",
+        "javascript_tz": "Pacific/Guam",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "378",
+        "php_tz": "Pacific/Honolulu",
+        "javascript_tz": "Pacific/Honolulu",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "379",
+        "php_tz": "Pacific/Kiritimati",
+        "javascript_tz": "Pacific/Kiritimati",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "380",
+        "php_tz": "Pacific/Kosrae",
+        "javascript_tz": "Pacific/Kosrae",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "381",
+        "php_tz": "Pacific/Kwajalein",
+        "javascript_tz": "Pacific/Kwajalein",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "382",
+        "php_tz": "Pacific/Majuro",
+        "javascript_tz": "Pacific/Majuro",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "383",
+        "php_tz": "Pacific/Marquesas",
+        "javascript_tz": "Pacific/Marquesas",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "384",
+        "php_tz": "Pacific/Midway",
+        "javascript_tz": "Pacific/Midway",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "385",
+        "php_tz": "Pacific/Nauru",
+        "javascript_tz": "Pacific/Nauru",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "386",
+        "php_tz": "Pacific/Niue",
+        "javascript_tz": "Pacific/Niue",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "387",
+        "php_tz": "Pacific/Norfolk",
+        "javascript_tz": "Pacific/Norfolk",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "388",
+        "php_tz": "Pacific/Noumea",
+        "javascript_tz": "Pacific/Noumea",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "389",
+        "php_tz": "Pacific/Pago_Pago",
+        "javascript_tz": "Pacific/Pago_Pago",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "390",
+        "php_tz": "Pacific/Palau",
+        "javascript_tz": "Pacific/Palau",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "391",
+        "php_tz": "Pacific/Pitcairn",
+        "javascript_tz": "Pacific/Pitcairn",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "392",
+        "php_tz": "Pacific/Port_Moresby",
+        "javascript_tz": "Pacific/Port_Moresby",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "393",
+        "php_tz": "Pacific/Rarotonga",
+        "javascript_tz": "Pacific/Rarotonga",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "394",
+        "php_tz": "Pacific/Saipan",
+        "javascript_tz": "Pacific/Saipan",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "395",
+        "php_tz": "Pacific/Tahiti",
+        "javascript_tz": "Pacific/Tahiti",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "396",
+        "php_tz": "Pacific/Tarawa",
+        "javascript_tz": "Pacific/Tarawa",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "397",
+        "php_tz": "Pacific/Tongatapu",
+        "javascript_tz": "Pacific/Tongatapu",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "398",
+        "php_tz": "Pacific/Wake",
+        "javascript_tz": "Pacific/Wake",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "399",
+        "php_tz": "Pacific/Wallis",
+        "javascript_tz": "Pacific/Wallis",
+        "deleted_at": null,
+        "created_at": "2024-09-22 14:47:21",
+        "updated_at": "2024-09-22 14:47:21"
+    },
+    {
+        "id": "400",
+        "php_tz": "Africa/Asmara",
+        "javascript_tz": "Africa/Asmera",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "401",
+        "php_tz": "America/Argentina/Buenos_Aires",
+        "javascript_tz": "America/Buenos_Aires",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "402",
+        "php_tz": "America/Argentina/Catamarca",
+        "javascript_tz": "America/Catamarca",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "403",
+        "php_tz": "America/Argentina/Cordoba",
+        "javascript_tz": "America/Cordoba",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "404",
+        "php_tz": "America/Indiana/Indianapolis",
+        "javascript_tz": "America/Indianapolis",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "405",
+        "php_tz": "America/Argentina/Jujuy",
+        "javascript_tz": "America/Jujuy",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "406",
+        "php_tz": "America/Kentucky/Louisville",
+        "javascript_tz": "America/Louisville",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "407",
+        "php_tz": "America/Argentina/Mendoza",
+        "javascript_tz": "America/Mendoza",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "408",
+        "php_tz": "Asia/Kolkata",
+        "javascript_tz": "Asia/Calcutta",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "409",
+        "php_tz": "Asia/Kathmandu",
+        "javascript_tz": "Asia/Katmandu",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "410",
+        "php_tz": "Asia/Yangon",
+        "javascript_tz": "Asia/Rangoon",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "411",
+        "php_tz": "Atlantic/Faroe",
+        "javascript_tz": "Atlantic/Faeroe",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "412",
+        "php_tz": "Europe/Kyiv",
+        "javascript_tz": "Europe/Kiev",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "413",
+        "php_tz": "Pacific/Pohnpei",
+        "javascript_tz": "Pacific/Ponape",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "414",
+        "php_tz": "Pacific/Truk",
+        "javascript_tz": "Pacific/Truk",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "415",
+        "php_tz": "Pacific/Enderbury",
+        "javascript_tz": "Pacific/Enderbury",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "416",
+        "php_tz": "America/Godthab",
+        "javascript_tz": "America/Godthab",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "417",
+        "php_tz": "America/Coral_Harbour",
+        "javascript_tz": "America/Coral_Harbour",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "418",
+        "php_tz": "Asia/Saigon",
+        "javascript_tz": "Asia/Saigon",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null
+    }
+]

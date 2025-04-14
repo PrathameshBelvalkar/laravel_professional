@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "label": "Action & Adventure",
+        "value": "action_and_adventure"
+    },
+    {
+        "id": 2,
+        "label": "Classics",
+        "value": "classics"
+    },
+    {
+        "id": 3,
+        "label": "Crime",
+        "value": "crime"
+    },
+    {
+        "id": 4,
+        "label": "Drama",
+        "value": "drama"
+    },
+    {
+        "id": 5,
+        "label": "Fantasy",
+        "value": "fantasy"
+    },
+    {
+        "id": 6,
+        "label": "Historical",
+        "value": "historical"
+    },
+    {
+        "id": 7,
+        "label": "Horror",
+        "value": "horror"
+    },
+    {
+        "id": 8,
+        "label": "Literary",
+        "value": "literary"
+    },
+    {
+        "id": 9,
+        "label": "Mystery",
+        "value": "mystery"
+    },
+    {
+        "id": 10,
+        "label": "Romance",
+        "value": "romance"
+    },
+    {
+        "id": 11,
+        "label": "Science Fiction",
+        "value": "science_fiction"
+    },
+    {
+        "id": 12,
+        "label": "Thriller",
+        "value": "thriller"
+    },
+    {
+        "id": 13,
+        "label": "Western",
+        "value": "western"
+    },
+    {
+        "id": 14,
+        "label": "Women’s Fiction",
+        "value": "womens_fiction"
+    },
+    {
+        "id": 15,
+        "label": "Young Adult",
+        "value": "young_adult"
+    },
+    {
+        "id": 16,
+        "label": "Graphic Novels",
+        "value": "graphic_novels"
+    },
+    {
+        "id": 17,
+        "label": "Short Stories",
+        "value": "short_stories"
+    },
+    {
+        "id": 18,
+        "label": "Magical Realism",
+        "value": "magical_realism"
+    },
+    {
+        "id": 19,
+        "label": "Autobiography",
+        "value": "autobiography"
+    },
+    {
+        "id": 20,
+        "label": "Biography",
+        "value": "biography"
+    },
+    {
+        "id": 21,
+        "label": "Business",
+        "value": "business"
+    },
+    {
+        "id": 22,
+        "label": "Economics",
+        "value": "economics"
+    },
+    {
+        "id": 23,
+        "label": "Health & Fitness",
+        "value": "health_and_fitness"
+    },
+    {
+        "id": 24,
+        "label": "History",
+        "value": "history"
+    },
+    {
+        "id": 25,
+        "label": "Philosophy",
+        "value": "philosophy"
+    },
+    {
+        "id": 26,
+        "label": "Politics",
+        "value": "politics"
+    },
+    {
+        "id": 27,
+        "label": "Psychology",
+        "value": "psychology"
+    },
+    {
+        "id": 28,
+        "label": "Religion",
+        "value": "religion"
+    },
+    {
+        "id": 29,
+        "label": "Science",
+        "value": "science"
+    },
+    {
+        "id": 30,
+        "label": "Self-help",
+        "value": "self_help"
+    },
+    {
+        "id": 31,
+        "label": "Travel",
+        "value": "travel"
+    },
+    {
+        "id": 32,
+        "label": "True Crime",
+        "value": "true_crime"
+    },
+    {
+        "id": 33,
+        "label": "Memoir",
+        "value": "memoir"
+    },
+    {
+        "id": 34,
+        "label": "Technology",
+        "value": "technology"
+    },
+    {
+        "id": 35,
+        "label": "Education",
+        "value": "education"
+    },
+    {
+        "id": 36,
+        "label": "Cooking",
+        "value": "cooking"
+    },
+    {
+        "id": 37,
+        "label": "Art & Photography",
+        "value": "art_and_photography"
+    },
+    {
+        "id": 38,
+        "label": "Anthology",
+        "value": "anthology"
+    },
+    {
+        "id": 39,
+        "label": "Music",
+        "value": "music"
+    },
+    {
+        "id": 40,
+        "label": "Poetry",
+        "value": "poetry"
+    },
+    {
+        "id": 41,
+        "label": "Sports",
+        "value": "sports"
+    },
+    {
+        "id": 42,
+        "label": "Comics",
+        "value": "comics"
+    },
+    {
+        "id": 43,
+        "label": "Environmental",
+        "value": "environmental"
+    },
+    {
+        "id": 44,
+        "label": "Parenting",
+        "value": "parenting"
+    },
+    {
+        "id": 45,
+        "label": "Spirituality",
+        "value": "spirituality"
+    },
+    {
+        "id": 46,
+        "label": "Home & Garden",
+        "value": "home_and_garden"
+    },
+    {
+        "id": 47,
+        "label": "Military",
+        "value": "military"
+    },
+    {
+        "id": 48,
+        "label": "Law",
+        "value": "law"
+    },
+    {
+        "id": 49,
+        "label": "Travel Guides",
+        "value": "travel_guides"
+    },
+    {
+        "id": 50,
+        "label": "Humor",
+        "value": "humor"
+    },
+    {
+        "id": 51,
+        "label": "Erotica",
+        "value": "erotica"
+    },
+    {
+        "id": 52,
+        "label": "Psychological Thriller",
+        "value": "psychological_thriller"
+    },
+    {
+        "id": 53,
+        "label": "Political Commentary",
+        "value": "political_commentary"
+    },
+    {
+        "id": 54,
+        "label": "Legal Thriller",
+        "value": "legal_thriller"
+    },
+    {
+        "id": 55,
+        "label": "Dark Fantasy",
+        "value": "dark_fantasy"
+    },
+    {
+        "id": 56,
+        "label": "True Stories",
+        "value": "true_stories"
+    },
+    {
+        "id": 57,
+        "label": "Historical Romance",
+        "value": "historical_romance"
+    },
+    {
+        "id": 58,
+        "label": "Adult Humor",
+        "value": "adult_humor"
+    },
+    {
+        "id": 59,
+        "label": "Urban Fiction",
+        "value": "urban_fiction"
+    },
+    {
+        "id": 60,
+        "label": "Dystopian",
+        "value": "dystopian"
+    },
+    {
+        "id": 61,
+        "label": "Cyberpunk",
+        "value": "cyberpunk"
+    },
+    {
+        "id": 62,
+        "label": "Survival",
+        "value": "survival"
+    },
+    {
+        "id": 63,
+        "label": "Adventure Travel",
+        "value": "adventure_travel"
+    },
+    {
+        "id": 64,
+        "label": "Self-Improvement",
+        "value": "self_improvement"
+    },
+    {
+        "id": 65,
+        "label": "Relationships",
+        "value": "relationships"
+    },
+    {
+        "id": 66,
+        "label": "Investing",
+        "value": "investing"
+    },
+    {
+        "id": 67,
+        "label": "Medical",
+        "value": "medical"
+    },
+    {
+        "id": 68,
+        "label": "Sociology",
+        "value": "sociology"
+    },
+    {
+        "id": 69,
+        "label": "Occult",
+        "value": "occult"
+    },
+    {
+        "id": 70,
+        "label": "Aging",
+        "value": "aging"
+    },
+    {
+        "id": 71,
+        "label": "African American Literature",
+        "value": "african_american_literature"
+    },
+    {
+        "id": 72,
+        "label": "Afrofuturism",
+        "value": "afrofuturism"
+    },
+    {
+        "id": 73,
+        "label": "Black History",
+        "value": "black_history"
+    },
+    {
+        "id": 74,
+        "label": "Black Feminism",
+        "value": "black_feminism"
+    },
+    {
+        "id": 75,
+        "label": "African Mythology",
+        "value": "african_mythology"
+    },
+    {
+        "id": 76,
+        "label": "Civil Rights",
+        "value": "civil_rights"
+    },
+    {
+        "id": 77,
+        "label": "African American Poetry",
+        "value": "african_american_poetry"
+    },
+    {
+        "id": 78,
+        "label": "Urban Romance",
+        "value": "urban_romance"
+    },
+    {
+        "id": 79,
+        "label": "Multicultural Fiction",
+        "value": "multicultural_fiction"
+    },
+    {
+        "id": 80,
+        "label": "Black LGBTQ+",
+        "value": "black_lgbtq"
+    },
+    {
+        "id": 81,
+        "label": "African American Memoir",
+        "value": "african_american_memoir"
+    },
+    {
+        "id": 82,
+        "label": "Racial Justice",
+        "value": "racial_justice"
+    },
+    {
+        "id": 83,
+        "label": "African American Spirituality",
+        "value": "african_american_spirituality"
+    },
+    {
+        "id": 84,
+        "label": "Hip Hop Culture",
+        "value": "hip_hop_culture"
+    },
+    {
+        "id": 85,
+        "label": "African Diaspora Studies",
+        "value": "african_diaspora_studies"
+    },
+    {
+        "id": 86,
+        "label": "Black Empowerment",
+        "value": "black_empowerment"
+    },
+    {
+        "id": 87,
+        "label": "Social Activism",
+        "value": "social_activism"
+    },
+    {
+        "id": 88,
+        "label": "Black Sci-Fi",
+        "value": "black_sci_fi"
+    },
+    {
+        "id": 89,
+        "label": "African American Urban Fiction",
+        "value": "african_american_urban_fiction"
+    },
+    {
+        "id": 90,
+        "label": "Black Love",
+        "value": "black_love"
+    }
+]

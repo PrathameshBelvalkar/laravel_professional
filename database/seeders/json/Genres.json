@@ -1,0 +1,104 @@
+[
+  
+    {
+      "id": 1,
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "id": 3,
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "id": 4,
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "id": 5,
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "id": 8,
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "id": 9,
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "id": 10,
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "id": 11,
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "id": 12,
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "id": 13,
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "id": 14,
+      "name": "Musical",
+      "slug": "musical"
+    },
+    {
+      "id": 15,
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "id": 16,
+      "name": "Historical",
+      "slug": "historical"
+    },
+    {
+      "id": 17,
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "id": 18,
+      "name": "Western",
+      "slug": "western"
+    },
+    {
+      "id": 19,
+      "name": "Biography",
+      "slug": "biography"
+    },
+    {
+      "id": 20,
+      "name": "Superhero",
+      "slug": "superhero"
+    }
+  
+  ]

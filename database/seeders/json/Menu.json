@@ -1,0 +1,35 @@
+[
+{
+ "heading": "Dashboards"
+},
+{
+ "icon": "user-list",
+ "text": "Manage Users",
+ "link": "/user-list",
+ "dashboard": false
+},
+{
+ "icon": "package",
+ "text": "Manage blogs",
+ "link": "/admin-manage-cms/admin-news-list",
+ "dashboard": true
+},
+{
+ "icon": "contact",
+ "text": "Contact Form",
+ "link": "/contact-form",
+ "dashboard": true
+},
+{
+ "icon": "setting",
+ "text": "Admin Site Settings",
+ "link": "/setting",
+ "dashboard": true
+},
+{
+"icon": "view-x2",
+"text": "Manage Category",
+"link": "/category",
+"dashboard": true
+}
+]
